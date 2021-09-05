@@ -1,10 +1,10 @@
-#Projeto BootCamp Santander desenvolvendo uma API com Spring Boot 
+# Projeto BootCamp Santander desenvolvendo uma API com Spring Boot 
 
-#para gerenciar salas de reunião, 
+# para gerenciar salas de reunião, 
 
-#utilizando o Spring Data para persistência de dados e o banco in-memory H2. 
+# utilizando o Spring Data para persistência de dados e o banco in-memory H2. 
 
-#O Front End que irá consumir essa API será uma SPA escrita em Angular.
+# O Front End que irá consumir essa API será uma SPA escrita em Angular.
 
 
 
